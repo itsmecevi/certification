@@ -7,6 +7,7 @@
 * [Amazon Web Service (AWS) Math for Machine Learning](https://drive.google.com/drive/folders/1lrpBdXJp5N-4uXnx2z6H4I4RfR-9Swpe?usp=sharing)
 
 ### 2022:
+* [Kaggle Intro to Programming](https://drive.google.com/drive/folders/1nBvj_v4TsfmUbXNRkwu_vPHFR1PSvat4?usp=sharing)
 
 ### 2021:
 
