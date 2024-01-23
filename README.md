@@ -8,6 +8,7 @@
 
 ### 2022:
 * [Kaggle Intro to Programming](https://drive.google.com/drive/folders/1nBvj_v4TsfmUbXNRkwu_vPHFR1PSvat4?usp=sharing)
+* [Kaggle Intro to Machine Learning](https://drive.google.com/drive/folders/1JiMKAQWnEwL_uhS1LCZUCXcpl5DILxp0?usp=sharing)
 
 ### 2021:
 
