@@ -15,6 +15,7 @@
 * [Kaggle Data Cleaning](https://drive.google.com/drive/folders/155x01nzF4rWY0v169rRQEV3lwFsXMRji?usp=sharing)
 * [Datacamp Joining Data in PostgreSQL Course](https://drive.google.com/drive/folders/1a667-CKvB5EOKbfpo7utbm8Si2Afy0Gy?usp=sharing)
 * [Datacamp Intro to SQL for Data Science](https://drive.google.com/drive/folders/1p7hl1xY_Z3UiWptvobFow1DX89fTi2Br?usp=sharing)
+* [Cognitiveclass.ai Data Science 101](https://drive.google.com/drive/folders/1CZVVkqMsLJCiMk6ohmq2aifXHOElQFz0?usp=sharing)
 
 ### 2021:
 
