@@ -33,10 +33,10 @@
 
 
 ### 2017:
-* [Power BI Pro Essential Training](https://drive.google.com/drive/folders/1mIZp8zJanIHphbxyr-M4oSa57Sy3GiZG?usp=sharing)
-* [Tableau 10 Essential Training](https://drive.google.com/drive/folders/17Dpx2LyGNSSc8skpzXBVa1wh-fnrtylt?usp=sharing)
-* [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
-* [Learning Microsoft Power BI Desktop](https://drive.google.com/drive/folders/14s-dr9wKG9-_3QHQSU7BqZsDfsvLqCFj?usp=sharing)
+* [Lynda.com Power BI Pro Essential Training](https://drive.google.com/drive/folders/1mIZp8zJanIHphbxyr-M4oSa57Sy3GiZG?usp=sharing)
+* [Lynda.com Tableau 10 Essential Training](https://drive.google.com/drive/folders/17Dpx2LyGNSSc8skpzXBVa1wh-fnrtylt?usp=sharing)
+* [Lynda.com Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
+* [Lynda.com Learning Microsoft Power BI Desktop](https://drive.google.com/drive/folders/14s-dr9wKG9-_3QHQSU7BqZsDfsvLqCFj?usp=sharing)
 * [Google Digital Garage The Online Marketing Fundamentals](https://drive.google.com/drive/folders/1lXj4z9PI9jR1McMreIbhBnCwFrV4TpzP?usp=sharing)
 * [Lynda.com Data Science and Analytics Career Paths](https://drive.google.com/drive/folders/1HvnSHjtKxKlp3l1LwGWxkLC9Rf08RB-s?usp=sharing)
 * [Lynda.com Big Data Foundations: Tecnniques and Concepts](https://drive.google.com/drive/folders/1i2-LQYtnt0hmNdrCUlSVHAkz6sjDjcFx?usp=sharing)
