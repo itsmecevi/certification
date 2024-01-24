@@ -47,7 +47,7 @@
 * [ScrumStudy Scrum Fundamentals Certified Credential](https://drive.google.com/drive/folders/1ASS-YVdEMVyv2xr6_uAixw9-zxbQwoqT?usp=sharing)
 * [Udemy Trello Project Management](https://drive.google.com/drive/folders/1c6iFj32qEW0JzRbebxmcjylH_rvYpqHh?usp=sharing)
 * [Udemy The Ultimate Excel Programmer](https://drive.google.com/drive/folders/1i6FASvp0bG3YTks4vtWrH_Z0eVCZKIjD?usp=sharing)
-* [Macros & VBA Excel](https://drive.google.com/drive/folders/13eg_lFPm37FxR0p-vWGQFNQrBpL2MA1s?usp=sharing)
+* [Udemy Macros & VBA Excel](https://drive.google.com/drive/folders/13eg_lFPm37FxR0p-vWGQFNQrBpL2MA1s?usp=sharing)
 * [EDX Introduction to Data Analysis using Excel](https://drive.google.com/drive/folders/1F5wl28izgb8oA7xVUGKlFan6fawROCG3?usp=sharing)
 * [Udemy The Complete Financial Analyst](https://drive.google.com/drive/folders/1WxLeL7oenG2HoxrN-MtOtMu4VRVmfJZZ?usp=sharing)
 * [EDX Data Science Orientation](https://drive.google.com/drive/folders/1h7OOr4gyp2h1SYc-GqdA7g59MlYfCEJp?usp=sharing)
