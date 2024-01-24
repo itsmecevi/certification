@@ -39,6 +39,8 @@
 * [Learning Microsoft Power BI Desktop](https://drive.google.com/drive/folders/14s-dr9wKG9-_3QHQSU7BqZsDfsvLqCFj?usp=sharing)
 * [Google Digital Garage The Online Marketing Fundamentals](https://drive.google.com/drive/folders/1lXj4z9PI9jR1McMreIbhBnCwFrV4TpzP?usp=sharing)
 * [Lynda.com Data Science and Analytics Career Paths](https://drive.google.com/drive/folders/1HvnSHjtKxKlp3l1LwGWxkLC9Rf08RB-s?usp=sharing)
+* [Lynda.com Big Data Foundations: Tecnniques and Concepts](https://drive.google.com/drive/folders/1i2-LQYtnt0hmNdrCUlSVHAkz6sjDjcFx?usp=sharing)
+* 
 
 
 ### 2016:
@@ -49,6 +51,8 @@
 * [EDX Introduction to Data Analysis using Excel](https://drive.google.com/drive/folders/1F5wl28izgb8oA7xVUGKlFan6fawROCG3?usp=sharing)
 * [Udemy The Complete Financial Analyst](https://drive.google.com/drive/folders/1WxLeL7oenG2HoxrN-MtOtMu4VRVmfJZZ?usp=sharing)
 * [EDX Data Science Orientation](https://drive.google.com/drive/folders/1h7OOr4gyp2h1SYc-GqdA7g59MlYfCEJp?usp=sharing)
+* [Udemy Basics of Scrum, Agile and Project](https://drive.google.com/drive/folders/1ePe9QsN1EsGSrZAAIUhJOSDRlarMZl4i?usp=sharing)
+* [EDX Analyzing and Visualizing Data with Excel](https://drive.google.com/drive/folders/1moyRQyi20__ivgWb9xW-A9ip0KqJeR_Z?usp=sharing)
   
 
 
