@@ -13,6 +13,8 @@
 * [Kaggle Intermediate Machine Learning](https://drive.google.com/drive/folders/1EPwhDlK_YJvlO_y7fxklSW1m5PYWnnRK?usp=sharing)
 * [Kaggle Feature Engineering](https://drive.google.com/drive/folders/1jUE_3WUHGmxk45AAgvQJE03uh9e0pKGq?usp=sharing)
 * [Kaggle Data Cleaning](https://drive.google.com/drive/folders/155x01nzF4rWY0v169rRQEV3lwFsXMRji?usp=sharing)
+* [Datacamp Joining Data in PostgreSQL Course](https://drive.google.com/drive/folders/1a667-CKvB5EOKbfpo7utbm8Si2Afy0Gy?usp=sharing)
+* [Datacamp Intro to SQL for Data Science](https://drive.google.com/drive/folders/1p7hl1xY_Z3UiWptvobFow1DX89fTi2Br?usp=sharing)
 
 ### 2021:
 
@@ -32,12 +34,18 @@
 * [Power BI Pro Essential Training](https://drive.google.com/drive/folders/1mIZp8zJanIHphbxyr-M4oSa57Sy3GiZG?usp=sharing)
 * [Tableau 10 Essential Training](https://drive.google.com/drive/folders/17Dpx2LyGNSSc8skpzXBVa1wh-fnrtylt?usp=sharing)
 * [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
+* [Learning Microsoft Power BI Desktop](https://drive.google.com/drive/folders/14s-dr9wKG9-_3QHQSU7BqZsDfsvLqCFj?usp=sharing)
+* [Google Digital Garage The Online Marketing Fundamentals](https://drive.google.com/drive/folders/1lXj4z9PI9jR1McMreIbhBnCwFrV4TpzP?usp=sharing)
 
 
 ### 2016:
 * [Scrum Fundamentals Certified Credential](https://drive.google.com/drive/folders/1ASS-YVdEMVyv2xr6_uAixw9-zxbQwoqT?usp=sharing)
 * [Udemy Trello Project Management](https://drive.google.com/drive/folders/1c6iFj32qEW0JzRbebxmcjylH_rvYpqHh?usp=sharing)
 * [Udemy The Ultimate Excel Programmer](https://drive.google.com/drive/folders/1i6FASvp0bG3YTks4vtWrH_Z0eVCZKIjD?usp=sharing)
+* [Macros & VBA Excel](https://drive.google.com/drive/folders/13eg_lFPm37FxR0p-vWGQFNQrBpL2MA1s?usp=sharing)
+* [EDX Introduction to Data Analysis using Excel](https://drive.google.com/drive/folders/1F5wl28izgb8oA7xVUGKlFan6fawROCG3?usp=sharing)
+* [Udemy The Complete Financial Analyst](https://drive.google.com/drive/folders/1WxLeL7oenG2HoxrN-MtOtMu4VRVmfJZZ?usp=sharing)
+* [EDX Data Science Orientation](https://drive.google.com/drive/folders/1h7OOr4gyp2h1SYc-GqdA7g59MlYfCEJp?usp=sharing)
   
 
 
