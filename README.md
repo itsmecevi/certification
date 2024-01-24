@@ -17,14 +17,6 @@
 * [Datacamp Intro to SQL for Data Science](https://drive.google.com/drive/folders/1p7hl1xY_Z3UiWptvobFow1DX89fTi2Br?usp=sharing)
 * [Cognitiveclass.ai Data Science 101](https://drive.google.com/drive/folders/1CZVVkqMsLJCiMk6ohmq2aifXHOElQFz0?usp=sharing)
 
-### 2021:
-
-
-### 2020:
-
-
-### 2019:
-
 
 ### 2018:
 * [Lynda.com Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
