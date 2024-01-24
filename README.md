@@ -21,22 +21,24 @@
 
 
 ### 2019:
-* [Tableau Essential Training](https://drive.google.com/drive/folders/1DmD7YfuKllD8D1nIS4E66kwJe7EigYPV?usp=sharing)
-* [Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
-* [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
 
 
 ### 2018:
+* [Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
+* [Tableau Essential Training](https://drive.google.com/drive/folders/1DmD7YfuKllD8D1nIS4E66kwJe7EigYPV?usp=sharing)
 
 
 ### 2017:
+* [Power BI Pro Essential Training](https://drive.google.com/drive/folders/1mIZp8zJanIHphbxyr-M4oSa57Sy3GiZG?usp=sharing)
+* [Tableau 10 Essential Training](https://drive.google.com/drive/folders/17Dpx2LyGNSSc8skpzXBVa1wh-fnrtylt?usp=sharing)
+* [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
 
 
 ### 2016:
-
+* [Scrum Fundamentals Certified Credential](https://drive.google.com/drive/folders/1ASS-YVdEMVyv2xr6_uAixw9-zxbQwoqT?usp=sharing)
 * [Udemy Trello Project Management](https://drive.google.com/drive/folders/1c6iFj32qEW0JzRbebxmcjylH_rvYpqHh?usp=sharing)
 * [Udemy The Ultimate Excel Programmer](https://drive.google.com/drive/folders/1i6FASvp0bG3YTks4vtWrH_Z0eVCZKIjD?usp=sharing)
-* 
+  
 
 
 
