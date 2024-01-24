@@ -28,6 +28,7 @@
 ### 2018:
 * [Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
 * [Tableau Essential Training](https://drive.google.com/drive/folders/1DmD7YfuKllD8D1nIS4E66kwJe7EigYPV?usp=sharing)
+* [Cognitive Class AI Data Science Hands-On with Open Source Tools](https://drive.google.com/drive/folders/1hJ4i4UEuE_AyfqAJOdVMt_wCj9GGEJup?usp=sharing)
 
 
 ### 2017:
@@ -36,6 +37,7 @@
 * [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
 * [Learning Microsoft Power BI Desktop](https://drive.google.com/drive/folders/14s-dr9wKG9-_3QHQSU7BqZsDfsvLqCFj?usp=sharing)
 * [Google Digital Garage The Online Marketing Fundamentals](https://drive.google.com/drive/folders/1lXj4z9PI9jR1McMreIbhBnCwFrV4TpzP?usp=sharing)
+* [Lynda.com Data Science and Analytics Career Paths](https://drive.google.com/drive/folders/1HvnSHjtKxKlp3l1LwGWxkLC9Rf08RB-s?usp=sharing)
 
 
 ### 2016:
