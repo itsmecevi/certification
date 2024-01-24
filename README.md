@@ -11,6 +11,8 @@
 * [Kaggle Intro to Machine Learning](https://drive.google.com/drive/folders/1JiMKAQWnEwL_uhS1LCZUCXcpl5DILxp0?usp=sharing)
 * [Kaggle Pandas](https://drive.google.com/drive/folders/1IIK12xDDOFnYduKhKIFNg8qX09xDLQHl?usp=sharing)
 * [Kaggle Intermediate Machine Learning](https://drive.google.com/drive/folders/1EPwhDlK_YJvlO_y7fxklSW1m5PYWnnRK?usp=sharing)
+* [Kaggle Feature Engineering](https://drive.google.com/drive/folders/1jUE_3WUHGmxk45AAgvQJE03uh9e0pKGq?usp=sharing)\
+* [Kaggle Data Cleaning](https://drive.google.com/drive/folders/155x01nzF4rWY0v169rRQEV3lwFsXMRji?usp=sharing)
 
 ### 2021:
 
