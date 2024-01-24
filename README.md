@@ -21,6 +21,9 @@
 
 
 ### 2019:
+* [Tableau Essential Training](https://drive.google.com/drive/folders/1DmD7YfuKllD8D1nIS4E66kwJe7EigYPV?usp=sharing)
+* [Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
+* [Tableau 10 for Data Scientists](https://drive.google.com/drive/folders/1-LDO7q6A0Fs2aNAZL5LnjqFKVn6vrStC?usp=sharing)
 
 
 ### 2018:
@@ -32,6 +35,8 @@
 ### 2016:
 
 * [Udemy Trello Project Management](https://drive.google.com/drive/folders/1c6iFj32qEW0JzRbebxmcjylH_rvYpqHh?usp=sharing)
+* [Udemy The Ultimate Excel Programmer](https://drive.google.com/drive/folders/1i6FASvp0bG3YTks4vtWrH_Z0eVCZKIjD?usp=sharing)
+* 
 
 
 
