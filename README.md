@@ -29,7 +29,7 @@
 ### 2018:
 * [Lynda.com Tableau 10: Mastering Calculations](https://drive.google.com/drive/folders/13lDK5lSciD1fydGTDBypxPDSEpUgb1y0?usp=sharing)
 * [Lynda.com Tableau Essential Training](https://drive.google.com/drive/folders/1DmD7YfuKllD8D1nIS4E66kwJe7EigYPV?usp=sharing)
-* [Cognitive Class AI Data Science Hands-On with Open Source Tools](https://drive.google.com/drive/folders/1hJ4i4UEuE_AyfqAJOdVMt_wCj9GGEJup?usp=sharing)
+* [Cognitiveclass.ai Data Science Hands-On with Open Source Tools](https://drive.google.com/drive/folders/1hJ4i4UEuE_AyfqAJOdVMt_wCj9GGEJup?usp=sharing)
 
 
 ### 2017:
